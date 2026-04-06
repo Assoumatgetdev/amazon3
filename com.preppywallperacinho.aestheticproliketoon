@@ -1,6 +1,6 @@
 {
   "AdsManager": {
-    "ShowAds":false,
+    "ShowAds":true,
     "ShowDropAds":false,
     "ShowCpaAds":false,
     "AdmobClick":2,
@@ -11,12 +11,12 @@
     "AdmobAppID":"ca-app-pub-3940256099942544~3347511713",
     "AdmobInterstitial":"ca-app-pub-3940256099942544/1033173712",
     "AdmobReward":"xxxxxxxxxxx",
-    "MintegralAppID":"xxxxxxx",
+    "MintegralAppID":"464915",
     "MintegralAppKey":"58ff183361b401b851b26e5bdb86a753",
-    "MintegralInterstitialUnitID":"xxxxxxx",
-    "MintegralInterstitialPlacementID":"xxxxxxx",
-    "MintegralRewardUnitID":"xxxxxxx",
-    "MintegralRewardPlacementID":"xxxxxxx"
+    "MintegralInterstitialUnitID":"5887287",
+    "MintegralInterstitialPlacementID":"3541091",
+    "MintegralRewardUnitID":"5887285",
+    "MintegralRewardPlacementID":"3541089"
     },
   "MoreApps":[
       {
